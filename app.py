@@ -25,7 +25,7 @@ def api_call_function(api_url, full_name, domain, company_size):
 
     try:
         start_time = time.time()  # Record the start time
-        response = requests.post(api_url, json=payload, timeout=3.0)  # Add a timeout of 10 seconds
+        response = requests.post(api_url, json=payload, timeout=5.5)  # Add a timeout of 10 seconds
         duration = time.time() - start_time  # Calculate the duration
 
         if response.status_code == 200:

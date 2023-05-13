@@ -1,75 +1,98 @@
 full_name,domain,company_size,API Result,API Calls,API Call Duration
-Sarah Craddock,janieandjune.com,20,Valid email found: sarah@janieandjune.com,1,1.7
-Dagmar Rojas,rgvseo.com,20,API timeout,0,10.2
-John Victorino,beaconmediasolutions.com,20,No valid email found,10,9.9
-Braeden Schwark,vancouverseoagency.ca,20,Valid email found: braeden@vancouverseoagency.ca,1,1.7
-Paul Sherland,houstontexasseo.com,20,Valid email found: pauls@houstontexasseo.com,4,4.0
-Chris Beckley,eminentseo.com,20,Valid email found: chris@eminentseo.com,1,1.2
-Dustin Woodard,seo-naturale.com,20,Valid email found: dustin@seo-naturale.com,1,1.3
-Beth Riegger,k2smarketing.com,20,Valid email found: beth@k2smarketing.com,1,1.5
-Matt Holovach,coloradoseodesign.com,20,API timeout,0,10.3
-Randy Hansen,barringtonseo.com,20,Valid email found: randy@barringtonseo.com,1,1.4
-Michael Lykins,pathfinderseo.com,20,Valid email found: michael@pathfinderseo.com,1,1.5
-Carl Mancuso,fusionseo.com,20,API timeout,0,10.2
-Lord Devi,source-wave.com,20,Valid email found: lord@source-wave.com,1,6.8
-Christian Baker,toggleseo.com,20,No valid email found,10,9.4
-Michael Milauskas,burbankseoexperts.com,20,No valid email found,10,9.8
-Roni,rrconsulting.info,20,API error,0,0.3
-Gene Anderson,advancedonlinetechnology.com,20,No valid email found,10,9.9
-Matt Watson,pfpmarketing.com,20,Valid email found: matt@pfpmarketing.com,1,1.2
-Mal Macgregor,malmacgregor.com,20,Valid email found: mal@malmacgregor.com,1,1.2
-Alex Furfaro,alexfurfaro.com,20,Valid email found: alex@alexfurfaro.com,1,1.2
-Greg Gotcher,leadforcesolutions.com,20,Valid email found: greg@leadforcesolutions.com,1,1.1
-Matt Malone,seosetups.com,20,Valid email found: matt@seosetups.com,1,1.2
+Sarah Craddock,janieandjune.com,20,Valid email found: sarah@janieandjune.com,1,1.4
+Dagmar Rojas,rgvseo.com,20,API timeout,0,3.2
+John Victorino,beaconmediasolutions.com,20,API timeout,0,4.2
+Braeden Schwark,vancouverseoagency.ca,20,API timeout,0,3.2
+Paul Sherland,houstontexasseo.com,20,API timeout,0,3.2
+Chris Beckley,eminentseo.com,20,API timeout,0,3.2
+Dustin Woodard,seo-naturale.com,20,API timeout,0,3.2
+Beth Riegger,k2smarketing.com,20,Valid email found: beth@k2smarketing.com,1,1.4
+Matt Holovach,coloradoseodesign.com,20,API timeout,0,3.2
+Randy Hansen,barringtonseo.com,20,API timeout,0,3.2
+Michael Lykins,pathfinderseo.com,20,API timeout,0,3.2
+Carl Mancuso,fusionseo.com,20,API timeout,0,3.2
+Lord Devi,source-wave.com,20,Valid email found: lord@source-wave.com,1,1.2
+Christian Baker,toggleseo.com,20,API timeout,0,3.2
+Michael Milauskas,burbankseoexperts.com,20,API timeout,0,3.2
+Roni,rrconsulting.info,20,API timeout,0,3.4
+Gene Anderson,advancedonlinetechnology.com,20,API timeout,0,3.2
+Matt Watson,pfpmarketing.com,20,API timeout,0,3.2
+Mal Macgregor,malmacgregor.com,20,API timeout,0,3.2
+Alex Furfaro,alexfurfaro.com,20,API timeout,0,3.2
+Greg Gotcher,leadforcesolutions.com,20,API timeout,0,3.3
+Matt Malone,seosetups.com,20,API timeout,0,3.2
 Anthony Christensen,seekseo.io,20,Valid email found: anthony@seekseo.io,1,1.2
-Sally Sutton,anchoredseo.com,20,Valid email found: sally@anchoredseo.com,1,1.3
-Judi Jones,infoharbor.biz,20,API timeout,0,10.2
-Corey Wenger,coreywenger.consulting,20,Valid email found: corey@coreywenger.consulting,1,1.6
-Laura Sultan,paramaya.net,20,Valid email found: laura@paramaya.net,1,1.3
-Kristin Thomas,whitepeak.io,20,Valid email found: kristin@whitepeak.io,1,1.2
-Ashley Morais,pageofseo.com,20,No valid email found,10,9.3
-Amanda Melkonian,improove.net,20,Valid email found: amelkonian@improove.net,3,3.0
-Dora Guldborg,encompassseo.com,20,Valid email found: dora@encompassseo.com,1,1.2
-Maggie Chang,birdieseo.com,20,Valid email found: maggie@birdieseo.com,1,1.2
-Aleksa Pavlovic,viceseo.com,20,Valid email found: aleksa@viceseo.com,1,1.2
-Ludwig Makhyan,mazeless.com,20,Valid email found: ludwig@mazeless.com,1,1.2
-Zack Notes,sandboxweb.io,20,Valid email found: zack@sandboxweb.io,1,1.6
-James Trail,marquistrail.com,20,API timeout,0,10.2
-Justin Roy,southpawautomation.com,20,Valid email found: justin@southpawautomation.com,1,1.2
-Sandy Tapper,tappernet.com,20,Valid email found: stapper@tappernet.com,3,3.0
-Matthew Edgar,elementive.com,20,No valid email found,10,9.8
-Garrin,garrinevan.com,20,API error,0,0.4
-John Martinez,headquartersdigitalmarketing.com,20,Valid email found: john@headquartersdigitalmarketing.com,1,1.2
-Jared Tangir,elevatedaudience.com,20,Valid email found: jared@elevatedaudience.com,1,1.2
-Natalie Fisher,bludovedesigns.com,20,Valid email found: nfisher@bludovedesigns.com,3,3.0
-Lacey Clifton-Jensen,chicadita.com,20,Valid email found: lacey@chicadita.com,1,1.2
+Sally Sutton,anchoredseo.com,20,Valid email found: sally@anchoredseo.com,1,1.4
+Judi Jones,infoharbor.biz,20,API timeout,0,3.2
+Corey Wenger,coreywenger.consulting,20,Valid email found: corey@coreywenger.consulting,1,1.2
+Laura Sultan,paramaya.net,20,Valid email found: laura@paramaya.net,1,1.2
+Kristin Thomas,whitepeak.io,20,Valid email found: kristin@whitepeak.io,1,1.5
+Ashley Morais,pageofseo.com,20,API timeout,0,3.2
+Amanda Melkonian,improove.net,20,API timeout,0,3.3
+Dora Guldborg,encompassseo.com,20,API timeout,0,3.2
+Maggie Chang,birdieseo.com,20,API timeout,0,3.2
+Aleksa Pavlovic,viceseo.com,20,Valid email found: aleksa@viceseo.com,1,2.1
+Ludwig Makhyan,mazeless.com,20,Valid email found: ludwig@mazeless.com,1,1.5
+Zack Notes,sandboxweb.io,20,Valid email found: zack@sandboxweb.io,1,1.2
+James Trail,marquistrail.com,20,API timeout,0,3.2
+Justin Roy,southpawautomation.com,20,API timeout,0,3.2
+Sandy Tapper,tappernet.com,20,API timeout,0,3.2
+Matthew Edgar,elementive.com,20,API timeout,0,3.3
+Garrin,garrinevan.com,20,API timeout,0,3.2
+John Martinez,headquartersdigitalmarketing.com,20,API timeout,0,3.2
+Jared Tangir,elevatedaudience.com,20,Valid email found: jared@elevatedaudience.com,1,1.8
+Natalie Fisher,bludovedesigns.com,20,Valid email found: nfisher@bludovedesigns.com,3,3.2
+Lacey Clifton-Jensen,chicadita.com,20,Valid email found: lacey@chicadita.com,1,1.3
 Nathan Gotch,gotchseo.com,20,Valid email found: nathan@gotchseo.com,1,1.2
-Shane Griffiths,clarity-online.com,20,Valid email found: shane@clarity-online.com,1,1.3
-Rick Morris,barkingfrogseo.com,20,Valid email found: rick@barkingfrogseo.com,1,1.3
-Nicole Link,petersonseoconsulting.com,20,Valid email found: nicole@petersonseoconsulting.com,1,1.2
-Adam Bowie,rushhourlocal.com,20,Valid email found: adam@rushhourlocal.com,1,2.4
-Jennifer Yan,seosymbiosis.com,20,No valid email found,10,9.5
-Dallin Williams,honedinmarketing.com,20,Valid email found: dallin@honedinmarketing.com,1,1.5
+Shane Griffiths,clarity-online.com,20,Valid email found: shane@clarity-online.com,1,1.2
+Rick Morris,barkingfrogseo.com,20,Valid email found: rick@barkingfrogseo.com,1,1.7
+Nicole Link,petersonseoconsulting.com,20,Valid email found: nicole@petersonseoconsulting.com,1,1.8
+Adam Bowie,rushhourlocal.com,20,Valid email found: adam@rushhourlocal.com,1,1.5
+Jennifer Yan,seosymbiosis.com,20,API timeout,0,3.2
+Dallin Williams,honedinmarketing.com,20,Valid email found: dallin@honedinmarketing.com,1,1.7
 Jesse Hall,snowmaddigital.com,20,Valid email found: jesse@snowmaddigital.com,1,1.2
-Heather Schallert,thedigitalnova.com,20,Valid email found: heather@thedigitalnova.com,1,1.3
+Heather Schallert,thedigitalnova.com,20,Valid email found: heather@thedigitalnova.com,1,1.1
 Greg Newell,50bubbles.com,20,Valid email found: greg@50bubbles.com,1,1.3
-Alex Danner,seoroofers.com,20,Valid email found: alex@seoroofers.com,1,1.3
-Gilbert Maynard,allweb-marketing.com,20,Valid email found: gilbert@allweb-marketing.com,1,1.3
-Joe Youngblood,joeyoungblood.com,20,API timeout,0,10.2
-Isaac Esterline,digitaldynamollc.com,20,Valid email found: iesterline@digitaldynamollc.com,3,3.3
-Lisa,beautyandbrains.us,20,API error,0,0.4
-Nicole Roach,missoulaseogeek.com,20,Valid email found: nicole@missoulaseogeek.com,1,1.3
-Kyle Rosetta,incorpmedia.com,20,Valid email found: kyle@incorpmedia.com,1,2.3
-Andrew Stoller,stollerco.net,20,No valid email found,10,9.4
-Kyle Alm,seobandwagon.com,20,Valid email found: kyle@seobandwagon.com,1,1.3
-Erin Barnhart,clarkoptimization.com,20,No valid email found,10,9.6
-Richard Lewis,seobounty.com,20,Valid email found: richard@seobounty.com,1,1.5
-Lee Neidorf,royaltysolutionsonline.com,20,Valid email found: lee@royaltysolutionsonline.com,1,1.2
-Steven Bates,searchengine.solutions,20,No valid email found,10,9.3
-Kim Schmutzler,effectwebagency.com,20,Valid email found: kim@effectwebagency.com,1,1.2
-Julianna Young,kaleidoscopehoney.com,20,Valid email found: julianna@kaleidoscopehoney.com,1,1.3
-Clint Henderson,wiredseo.com,20,Valid email found: clint@wiredseo.com,1,1.4
+Alex Danner,seoroofers.com,20,Valid email found: alex@seoroofers.com,1,1.2
+Gilbert Maynard,allweb-marketing.com,20,Valid email found: gilbert@allweb-marketing.com,1,1.2
+Joe Youngblood,joeyoungblood.com,20,API timeout,0,3.2
+Isaac Esterline,digitaldynamollc.com,20,Valid email found: iesterline@digitaldynamollc.com,3,3.0
+Lisa,beautyandbrains.us,20,API error,0,0.3
+Nicole Roach,missoulaseogeek.com,20,Valid email found: nicole@missoulaseogeek.com,1,1.2
+Kyle Rosetta,incorpmedia.com,20,Valid email found: kyle@incorpmedia.com,1,1.2
+Andrew Stoller,stollerco.net,20,API timeout,0,3.2
+Kyle Alm,seobandwagon.com,20,API timeout,0,3.2
+Erin Barnhart,clarkoptimization.com,20,API timeout,0,3.2
+Richard Lewis,seobounty.com,20,API timeout,0,3.2
+Lee Neidorf,royaltysolutionsonline.com,20,API timeout,0,3.2
+Steven Bates,searchengine.solutions,20,API timeout,0,3.3
+Kim Schmutzler,effectwebagency.com,20,API timeout,0,3.3
+Julianna Young,kaleidoscopehoney.com,20,Valid email found: julianna@kaleidoscopehoney.com,1,1.5
+Clint Henderson,wiredseo.com,20,Valid email found: clint@wiredseo.com,1,1.5
 Hunter Barker,stuntplayers.com,20,Valid email found: hunter@stuntplayers.com,1,1.2
-Rana Tarakji,oneseo.net,20,Valid email found: rtarakji@oneseo.net,3,3.7
-Matthew Egan,imagefreedom.com,20,Valid email found: matthew@imagefreedom.com,1,1.4
+Rana Tarakji,oneseo.net,20,Valid email found: rtarakji@oneseo.net,3,3.0
+Matthew Egan,imagefreedom.com,20,Valid email found: matthew@imagefreedom.com,1,1.2
 Pat Quiroz,intmetric.com,20,Valid email found: pat@intmetric.com,1,1.2
+Geoff Patten,froggersite.com,20,API timeout,0,3.2
+Nick Thompson,jewelryseocompany.com,20,Valid email found: nick@jewelryseocompany.com,1,1.2
+Ismail Zakaria,iz-digital.com,20,Valid email found: ismail@iz-digital.com,1,1.2
+Elliot Webb,seowebb.com,20,Valid email found: elliot@seowebb.com,1,1.2
+Greg Agnew,hubwerks.com,20,Valid email found: greg@hubwerks.com,1,1.2
+Matt,socialmediasuperstore.com,20,API error,0,0.3
+Justin Guy,dentalmarketingguy.com,20,Valid email found: justin@dentalmarketingguy.com,1,1.1
+James Yates,atlantaseo.pro,20,Valid email found: james@atlantaseo.pro,1,1.1
+Ryan Whitton,getrank.co,20,Valid email found: ryan@getrank.co,1,1.2
+Danny Todd,clevelandseoguy.com,20,API timeout,0,3.2
+Brannon Smith,northtexasseo.com,20,API timeout,0,3.2
+Noah Lopata,epidemic-marketing.com,20,API timeout,0,3.2
+Zoe Richards,magnetize.me,20,API timeout,0,4.4
+Suse Barnes,susby.com,20,API timeout,0,3.2
+Christopher Briasco,ascendseomarketing.com,20,API timeout,0,3.3
+Noah Bugbee,improove.net,20,Valid email found: nbugbee@improove.net,3,3.0
+Ty Price,typrice.com,20,Valid email found: ty@typrice.com,1,1.2
+Ernie Dempsey,ernestdempsey.net,20,Valid email found: ernie@ernestdempsey.net,1,1.4
+Erik Chavez,invictalocal.com,20,Valid email found: erik@invictalocal.com,1,1.2
+Austin McCubbin,intrepid.marketing,20,Valid email found: austin@intrepid.marketing,1,1.3
+Zach Bradshaw,greensboroseopro.com,20,Valid email found: zach@greensboroseopro.com,1,1.4
+Andrew Sansardo,searchseochicago.com,20,Valid email found: andrew@searchseochicago.com,1,1.2
+Holly Purnell,seosage.io,20,Valid email found: holly@seosage.io,1,1.2
