@@ -7,6 +7,15 @@ def count_rows(csv_file):
     with open(csv_file, 'r') as f:
         return sum(1 for row in f) - 1  # Subtract 1 to account for the header row
 
+import csv
+import requests
+import time
+from tqdm import tqdm
+
+def count_rows(csv_file):
+    with open(csv_file, 'r') as f:
+        return sum(1 for row in f) - 1  # Subtract 1 to account for the header row
+
 def api_call_function(api_url, full_name, domain, company_size):
     payload = {
         'full_name': full_name,
@@ -14,17 +23,22 @@ def api_call_function(api_url, full_name, domain, company_size):
         'company_size': company_size,
     }
 
-    start_time = time.time()  # Record the start time
-    response = requests.post(api_url, json=payload)
-    duration = time.time() - start_time  # Calculate the duration
+    try:
+        start_time = time.time()  # Record the start time
+        response = requests.post(api_url, json=payload, timeout=10)  # Add a timeout of 10 seconds
+        duration = time.time() - start_time  # Calculate the duration
 
-    if response.status_code == 200:
-        data = response.json()
-        return data['message'], data['api_calls'], duration
-    elif response.status_code == 503:
-        return 'API error (503 Service Unavailable)', 0, duration
-    else:
-        return 'API error', 0, duration
+        if response.status_code == 200:
+            data = response.json()
+            return data['message'], data['api_calls'], duration
+        elif response.status_code == 503:
+            return 'API error (503 Service Unavailable)', 0, duration
+        else:
+            return 'API error', 0, duration
+    except requests.exceptions.Timeout:
+        duration = time.time() - start_time
+        return 'API timeout', 0, duration
+
 
 api_url = 'https://arcane-coast-03298.herokuapp.com/api/search/email'  # Replace with your Flask API URL
 input_csv = 'input.csv'  # Replace with your input CSV filename
