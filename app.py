@@ -50,7 +50,7 @@ with open(input_csv, 'r') as infile, open(output_csv, 'w', newline='') as outfil
         api_result, api_calls, api_call_duration = api_call_function(api_url, full_name, domain, company_size)
         row['API Result'] = api_result
         row['API Calls'] = api_calls
-        row['API Call Duration'] = api_call_duration  # Add the API call duration to the output row
+        row['API Call Duration'] = round(api_call_duration, 1)
         writer.writerow(row)
 
 print("Processing complete. Results written to:", output_csv)
